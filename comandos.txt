@@ -1,0 +1,10 @@
+git add . o nombreconextencion 
+git commit -m "mesaje"
+git push origin rama_QA
+
+PULL lo actualiza
+
+git pull nombredeorigenonline ramalocal
+
+
+NUEVO R repo de la pagina principal
